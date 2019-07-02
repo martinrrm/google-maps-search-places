@@ -14,7 +14,7 @@ from geopy.distance import geodesic
 # https://pypi.org/project/geopy/
 import time
 
-APIKEY = 'AIzaSyAF8DUYCN0jZbdhWHdax0J82K42UleiSx0'
+APIKEY = ''
 i = 0
 s = pd.DataFrame()
 
